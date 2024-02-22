@@ -1,7 +1,7 @@
 
 # Spotify Api Test
 
-Collects meta data from random songs using the spotify API.
+Collects meta data from songs using the spotify API.
 
 ## Setup
 
